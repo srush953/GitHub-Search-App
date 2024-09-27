@@ -17,4 +17,4 @@ A simple web application to search for public repositories on GitHub, allowing u
 ## Live Demo
 Check out the live demo here:github-repository-search-app-three.vercel.app
 
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/c60a0984-48c6-4e2c-bd4a-8d6eca5bc94c">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/c60a0984-48c6-4e2c-bd4a-8d6eca5bc94c">
